@@ -26,14 +26,14 @@ http://www.nsmod.org/forums/index.php?showtopic=7212
 Please ensure that your desired definitions are set accordingly before compiling!
 
 ##Credits
-peachy, for alot of help with the plugin
-gr1mre4p3r, for ideas
-The testers and bug-reporters: s095, +hairy+, Sgt.Riot, iBlank, Fixer
-steve, for his `ns_popup_var`
-Darkness, for helping with the getting of level, and zooming in/out
-Cheap_Suit(from AlliedModders forums) for his tutorial on Changing weapon models
-endgame, for his `#tryinclude` template
-Mini_Midget on AlliedModders, for his `public Event_WeaponFire( id )`
-FPSBanana.com, for the AWP models
-HL2:Substance GOLD, for the AWP sounds
-NSMod.org, for such a great community and website dedicated to NS and its mods!
+* peachy, for alot of help with the plugin
+* gr1mre4p3r, for ideas
+* The testers and bug-reporters: s095, +hairy+, Sgt.Riot, iBlank, Fixer
+* steve, for his `ns_popup_var`
+* Darkness, for helping with the getting of level, and zooming in/out
+* Cheap_Suit(from AlliedModders forums) for his tutorial on Changing weapon models
+* endgame, for his `#tryinclude` template
+* Mini_Midget on AlliedModders, for his `public Event_WeaponFire( id )`
+* FPSBanana.com, for the AWP models
+* HL2:Substance GOLD, for the AWP sounds
+* NSMod.org, for such a great community and website dedicated to NS and its mods!
