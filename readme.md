@@ -1,7 +1,7 @@
-#SniperMod
+# SniperMod
 SniperMod on NSMod: http://www.nsmod.org/forums/index.php?showtopic=9527
 
-##Where to place files?
+## Where to place files?
 
 Everything in the "sound" folder goes into "<path_to_ns_server>/ns/sound/"
  -> sound/sfx/zoomin.mp3
@@ -12,7 +12,7 @@ Everything in the "models" folder goes into "<path_to_ns_server>/ns/models/"
  -> models/v_awp.mdl
  -> models/p_awp.mdl
 
-##Compilation
+## Compilation
 
 Compiling the plugin, by default, requires the Helper include, which can be found at
 http://www.nsmod.org/forums/index.php?showtopic=3784
@@ -25,7 +25,7 @@ http://www.nsmod.org/forums/index.php?showtopic=7212
 
 Please ensure that your desired definitions are set accordingly before compiling!
 
-##Credits
+## Credits
 * peachy, for alot of help with the plugin
 * gr1mre4p3r, for ideas
 * The testers and bug-reporters: s095, +hairy+, Sgt.Riot, iBlank, Fixer
